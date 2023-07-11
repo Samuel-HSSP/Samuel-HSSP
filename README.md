@@ -1,6 +1,6 @@
 ### Hi there 👋
 # About Me
-My name is Samuel Ogunleke and I am a mobile developer, technical writer, and a tutor.
+My name is **Samuel Ogunleke** and I am a mobile developer, technical writer, and a tutor.
 I currently work at Lyxodius GmbH as a mobile developer intern and I have gained experience working with the following technologies:
 1. Vue, Vite
 2. Vuetify
