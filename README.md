@@ -1,5 +1,5 @@
 ### Hi there 👋
-# About Me
+# 👦 About Me
 My name is **Samuel Ogunleke** and I am a mobile developer, technical writer, and a tutor.
 I currently work at Lyxodius GmbH as a mobile developer intern and I have gained experience working with the following technologies:
 1. Vue, Vite
@@ -27,26 +27,24 @@ However, I have already built tons of personal projects with Python, React Nativ
 2. [CMDTube](https://pypi.org/project/cmdtube/) - to search, watch, and download YouTube tutorials. Built with programmers in mind! (More than 5k downloads)
 3. [PyPkgGen](https://pypi.org/project/pypkggen/) - in case you want to package a Python library on PyPi without stress! (More than 1k downloads)
 
-## 📌 Technical Articles
+## 👨‍🏫 Technical Articles
 1. [Why Is Python Popular for Data Science?](https://www.makeuseof.com/why-is-python-popular-for-data-science/)
 2. [Why Is Lua Popular for Game Development and How Do You Use It?](https://www.makeuseof.com/why-is-lua-popular-for-game-development-how-to-use/)
 3. [The 10 Basic PowerShell Commands You Need to Know](https://adamtheautomator.com/basic-powershell-commands/)
 4. [Learn How PowerShell CmdletBinding Enhances Functions](https://adamtheautomator.com/powershell-cmdletbinding/)
 5. [Use Kivy and KivyMD to Build a WhatsApp Status Saver App](https://samuelhssp.hashnode.dev/whatsapp-status-saver-app-with-python)
 
-## 📌 Databases
+## 🗃️ Databases
 You can't avoid working with databases if you need to work with data and people. I have experience working with the following technologies:
 1. MySQL
 2. MariaDB
 3. GridDB
-
 
 ## 🤖 I like automation!
 I have created tutorials explaining how to use PowerShell, while working as a technical writer for [ATA Learning](https://adamtheautomator.com/author/samuel-ogunleke/).
 1. PowerShell
 2. Selenium
 3. BeautifulSoup
-
 
 ## 📌 I am also a polyglot!
 As much as I love programming languages, I also love learning about cultures of different people in the world, and so far I can speak 3 languages fluently.
