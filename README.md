@@ -62,10 +62,11 @@ As much as I love programming languages, I also love learning about cultures of 
 
 ### 📌 Languages
 I also learned French in high school but it's not listed here because that's a very long time ago and I have literally little to no idea about the language. I am still willing to learn it though, after I become fluent at Korean and Spanish.
-1. English 🏴󠁰󠁧󠁷󠁢󠁫󠁿 - 4/4
+1. English 🇬🇧 - 4/4
 2. Yoruba 🇳🇬 - 4/4 (Native)
 3. German 🇩🇪 - 3/4
 4. Korean 🇰🇷 - 1/4
+5. Spanish 🇪🇸 - 0/4
 
 ## 👨 Pronouns
 I am a male guy, so the pronouns would be *he/him*. :)
