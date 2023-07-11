@@ -10,6 +10,7 @@ I currently work at Lyxodius GmbH as a mobile developer intern and I have gained
 6. Apache Echarts
 7. Go - building microservices
 8. PHPMyAdmin
+9. Postman
 
 As a mobile developer, I have worked with the following technologies in Python and JavaScript to build amazing apps:
 1. Kivy
