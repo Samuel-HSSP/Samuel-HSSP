@@ -84,6 +84,7 @@ You can contact me by sending me an email at [samuelayomidehssp@gmail.com](mailt
 4. [TeacherOn](https://www.teacheron.com/tutor-profile/4Dhs)
 
 I also have a YouTube channel - **[SamuelHSSP](https://www.youtube.com/channel/UCGns4jHN-wkryfpV-bTjlyA)**. Subscribing would mean a lot to me! ;)
+
 I am available for job offers, collaborations, mentorship, tutoring, and everything else related to tech. As lOnG aS I Am SolVINg a ProBlEM! XD
 
 ## 🦩 Fun Fact
