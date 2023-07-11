@@ -20,7 +20,7 @@ As a mobile developer, I have worked with the following technologies in Python a
 5. Figma - A good product must have a good design!
 I am willing to learn Flutter as well, and I hope I become good at it very soon! :)
 
-## Projects
+## 📌 Projects
 I am currently working on a language learning app and a chat application [CMDChat](https://www.linkedin.com/company/cmdchat/) that works through the terminal.
 However, I have already built tons of personal projects with Python, React Native, etc:
 1. [Python open-source mobile apps](https://github.com/Samuel-HSSP/App-Development-with-Python)
@@ -28,23 +28,23 @@ However, I have already built tons of personal projects with Python, React Nativ
 3. [PyPkgGen](https://pypi.org/project/pypkggen/) - in case you want to package a Python library on PyPi without stress! (More than 1k downloads)
 
 
-## Databases
+## 📌 Databases
 You can't avoid working with databases if you need to work with data and people. I have experience working with the following technologies:
 1. MySQL
 2. MariaDB
 3. GridDB
 
 
-## I like automation!
+## 🤖 I like automation!
 I have created tutorials explaining how to use PowerShell, while working as a technical writer for [ATA Learning](https://adamtheautomator.com/author/samuel-ogunleke/).
 1. PowerShell
 2. Selenium
 3. BeautifulSoup
 
 
-## I am also a polyglot!
+## 📌 I am also a polyglot!
 As much as I love programming languages, I also love learning about cultures of different people in the world, and so far I can speak 3 languages fluently.
-### Programming Languages:
+### 👨‍💻 Programming Languages
 1. Python
 2. JavaScript
 3. TypeScript
@@ -54,25 +54,26 @@ As much as I love programming languages, I also love learning about cultures of 
 7. MySQL
 8. Kotlin
 
-### Languages
+### 📌 Languages
 I also learned French in high school but it's not listed here because that's a very long time ago and I have literally little to no idea about the language. I am still willing to learn it though, after I become fluent at Korean and Spanish.
-1. English - 4/4
-2. Yoruba - 4/4 (Native)
-3. German - 3/4
-4. Korean - 1/4
+1. English 🏴󠁰󠁧󠁷󠁢󠁫󠁿 - 4/4
+2. Yoruba 🇳🇬 - 4/4 (Native)
+3. German 🇩🇪 - 3/4
+4. Korean 🇰🇷 - 1/4
 
-## Pronouns
+## 👨 Pronouns
 I am a male guy, so the pronouns would be *he/him*. :)
 
-## Contact Me
+## 📇 Contact Me
 You can contact me by sending me an email at [samuelayomidehssp@gmail.com](mailto:samuelayomidehssp@gmail.com). Otherwise, please reach out to me on any of the following platforms:
 1. [LinkedIn](https://linkedin.com/in/samuel-ogunleke-hssp)
 2. [Twitter](https://twitter.com/SamuelHSSP)
 3. [Instagram](https://instagram.com/samuelhssp)
+4. [TeacherOn](https://www.teacheron.com/tutor-profile/4Dhs)
 
 I am available for job offers, collaborations, mentorship, tutoring, and everything else related to tech. As lOnG aS I Am SolVINg a ProBlEM! XD
 
-## Fun Fact
+## 🦩 Fun Fact
 I am addicted to learning anything because I am jealous of knowledge. Is that even a fun fact? XD
 <!--
 **Samuel-HSSP/Samuel-HSSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
