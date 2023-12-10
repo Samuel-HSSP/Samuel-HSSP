@@ -67,14 +67,15 @@ As much as I love programming languages, I also love learning about cultures of 
 
 ### 📌 Languages
 I also learned French in high school but it's not listed here because that's a very long time ago and I have literally little to no idea about the language. I am still willing to learn it though, after I become fluent at Korean and Spanish.
-1. English 🇬🇧 - 4/4
-2. Yoruba 🇳🇬 - 4/4 (Native)
-3. German 🇩🇪 - 3/4
-4. Korean 🇰🇷 - 1/4
-5. Spanish 🇪🇸 - 0/4
+1. English 🇬🇧 - 5/5
+2. Yoruba 🇳🇬 - 5/5 (Native)
+3. German 🇩🇪 - 3/5
+4. Korean 🇰🇷 - 1/5
+5. French - 1/5
+6. Spanish 🇪🇸 - 1/5
 
 ## 👨 Pronouns
-I am a male guy, so the pronouns would be *he/him*. :)
+I am male, so the pronouns would be *he/him*. :)
 
 ## 📇 Contact Me
 You can contact me by sending me an email at [samuelayomidehssp@gmail.com](mailto:samuelayomidehssp@gmail.com). Otherwise, please reach out to me on any of the following platforms:
