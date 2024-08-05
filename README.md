@@ -18,6 +18,8 @@ I currently work at Lyxodius GmbH as a mobile developer intern and I have gained
 7. Go - building microservices
 8. PHPMyAdmin
 9. Postman
+10. Python
+11. React, React Native, Expo
 
 As a mobile developer, I have worked with the following technologies in Python and JavaScript to build amazing apps:
 1. Kivy
