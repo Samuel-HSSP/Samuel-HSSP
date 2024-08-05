@@ -7,7 +7,7 @@ Willkommen!
 Bienvenue!
 
 # 👦 About Me
-My name is **Samuel Ogunleke** and I am a software engineer with more than 4 years of experience.
+My name is **Samuel Ogunleke** and I am a software engineer with more than 4 years of experience. I am the founder of [Tech Plus Plus](https://techplusplus.org) and I'm working in a great team to empower the next generation of problem-solvers.
 I currently work at Tech Plus Plus and I have gained experience working with the following technologies:
 1. Vue, Vite
 2. Vuetify
