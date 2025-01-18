@@ -7,7 +7,7 @@ Willkommen!
 Bienvenue!
 
 # 👦 About Me
-My name is **Samuel Ogunleke** and I am a software engineer with more than 4 years of experience. I am the founder of [Tech Plus Plus](https://techplusplus.org) and I'm working in a great team to empower the next generation of problem-solvers.
+My name is **Samuel Ogunleke** and I am a software engineer with almost half a decade of experience. I am the founder of [Tech Plus Plus](https://techplusplus.org) and I'm working in a great team to empower the next generation of problem-solvers.
 I currently work at Tech Plus Plus and I have gained experience working with the following technologies:
 1. Vue, Vite
 2. Vuetify
@@ -20,6 +20,8 @@ I currently work at Tech Plus Plus and I have gained experience working with the
 9. Postman
 10. Python
 11. React, React Native, Expo
+12. Next.js
+13. Google Firebase
 
 As a mobile developer, I have worked with the following technologies in Python and JavaScript to build amazing apps:
 1. Kivy
@@ -48,12 +50,14 @@ You can't avoid working with databases if you need to work with data and people.
 1. MySQL
 2. MariaDB
 3. GridDB
+4. MongoDB
 
 ## 🤖 I like automation!
 I have created tutorials explaining how to use PowerShell, while working as a technical writer for [ATA Learning](https://adamtheautomator.com/author/samuel-ogunleke/).
 1. PowerShell
 2. Selenium
 3. BeautifulSoup
+4. AutoHotKey
 
 ## 📌 I am also a polyglot!
 As much as I love programming languages, I also love learning about cultures of different people in the world, and so far I can speak 3 languages fluently.
@@ -81,7 +85,7 @@ I am male, so the pronouns would be *he/him*. :)
 
 ## 📇 Contact Me
 You can contact me by sending me an email at [samuelayomidehssp@gmail.com](mailto:samuelayomidehssp@gmail.com). Otherwise, please reach out to me on any of the following platforms:
-1. [LinkedIn](https://linkedin.com/in/samuel-ogunleke-hssp)
+1. [LinkedIn](https://linkedin.com/in/samuelhssp)
 2. [Twitter](https://twitter.com/SamuelHSSP)
 3. [Instagram](https://instagram.com/samuelhssp)
 4. [TeacherOn](https://www.teacheron.com/tutor-profile/4Dhs)
